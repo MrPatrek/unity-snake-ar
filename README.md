@@ -1,4 +1,4 @@
-# unity-snake-ar
+# Snake AR Game in Unity
 
 A port of the existing "Snake 2D" game to the "Snake AR" game. The base code was taken from [here](https://sharpcoderblog.com/blog/snake-game-in-unity-3d), which was then used to actually port it to an AR application.
 
